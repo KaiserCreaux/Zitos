@@ -15,7 +15,7 @@
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="wp-content/themes/Zitos/css/materialize.min.css"  media="screen,projection"/>
       <link type="text/css" rel="stylesheet" href="wp-content/themes/Zitos/style.css"  media="screen,projection"/>
-
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--END CSS-->
     
     <!--[if lt IE 9]>  
@@ -23,7 +23,7 @@
     <![endif]-->  
 	
     <!--FAVICONS-->
-    <link rel="shortcut icon" href="assets/favicon.ico">
+    <link rel="shortcut icon" href="wp-content/themes/Zitos/assets/favicon.ico">
     <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="assets/apple-touch-icon-114x114.png">
