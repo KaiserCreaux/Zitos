@@ -7,17 +7,17 @@
 		<div class="divider"></div>
 			<div class="section menuItem sandwichMenu">
 			<h5>Sandwiches</h5>
-			<p class="flow-text">Served On Brick Oven Ciabatta 
-			Chicken Parm Chicken Cutlet, Tomato Sauce, Mozzarella & Parmigiano
-			Meatball Parm All Beef Meatballs, Tomato Sauce, Mozzarella & Parmigiano
-			Meatless Grilled Portobello, Roasted Peppers, Rabe & House-made Artichoke Spread
-			Triple Grilled Cheese American, Provolone, Mozzarella, Tomato & Smoked Bacon
-			Trunzo Prosciutto, Mozzarella, Roasted Peppers & Balsamic Vinegar
-			Eggplant Parm Breaded Eggplant, Tomato Sauce, Mozzarella & Parmigiano
-			C.b.l.t. Chicken Cutlet, Bacon, Mixed Greens, Tomato & Mayo
-			18th Ave. Feast Sausage With Sauteed Unions & Peppers
-			Sausage & Rabe With Fresh Ricotta
-			Any One $10</p>
+			<p>Served On Brick Oven Ciabatta</p>
+			<span class="bold">Chicken Parm</span> Chicken Cutlet, Tomato Sauce, Mozzarella & Parmigiano<br>
+			<span class="bold">Meatball Parm</span> All Beef Meatballs, Tomato Sauce, Mozzarella & Parmigiano<br>
+			<span class="bold">Meatless</span> Grilled Portobello, Roasted Peppers, Rabe & House-made Artichoke Spread<br>
+			<span class="bold">Triple Grilled Cheese</span> American, Provolone, Mozzarella, Tomato & Smoked Bacon<br>
+			<span class="bold">Trunzo</span> Prosciutto, Mozzarella, Roasted Peppers & Balsamic Vinegar<br>
+			<span class="bold">Eggplant Parm</span> Breaded Eggplant, Tomato Sauce, Mozzarella & Parmigiano<br>
+			<span class="bold">C.b.l.t.</span> Chicken Cutlet, Bacon, Mixed Greens, Tomato & Mayo<br>
+			<span class="bold">18th Ave. Feast</span> Sausage With Sauteed Unions & Peppers<br>
+			<span class="bold">Sausage & Rabe</span> With Fresh Ricotta<br>
+			<h5>Any One $10</h5>
 			</div>
 		<div class="divider"></div>
 			<div class="section menuItem burgerMenu">

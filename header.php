@@ -14,7 +14,7 @@
   	<!--START CSS--> 
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="wp-content/themes/Zitos/css/materialize.min.css"  media="screen,projection"/>
-      <link type="text/css" rel="stylesheet" href="wp-content/themes/Zitos/css/style.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="wp-content/themes/Zitos/style.css"  media="screen,projection"/>
 
     <!--END CSS-->
     

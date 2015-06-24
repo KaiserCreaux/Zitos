@@ -8,9 +8,9 @@
     <!--end anchor back to top-->
     <div class="row">
 		<div class="col 12">
-			<h3>Address: 7604 3rd Ave, Brooklyn, NY 11209</h3>
-			<h3>Phone:(718) 836-7777</h3>
-			<h3>Hours: Open today · 11:00 am – 10:30 pm</h3>
+			<h5>Address: 7604 3rd Ave, Brooklyn, NY 11209</h5>
+			<h5>Phone:(718) 836-7777</h5>
+			<h5>Hours: 11:00 am – 10:30 pm Daily</h5>
 	<!--google maps-->
     <div id="map-canvas"></div>
     <!--google maps-->
