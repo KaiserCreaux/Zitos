@@ -15,6 +15,7 @@
     
     	<!--start titlesection-->
         <div class="grid_12 titlesection">
+				  <div class="divider"></div>
 		    	<h4 class="center">Follow Us</h4>
         </div>
         <!--end title section-->
@@ -49,6 +50,7 @@
        </div>
         <div class="row">
 			<div class="col s12 center-align">
+			  <div class="divider"></div>
 				<h5>Address: 7604 3rd Ave, Brooklyn, NY 11209</h5>
 				<h5>Phone:718-836-7777</h5>
 				<h5>Hours: 11:00 am – 10:30 pm Daily</h5>
