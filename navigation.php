@@ -21,8 +21,8 @@
 				<ul class="side-nav" id="mobile-demo">
                     <li><a href="#sectionMenu"><p class="flow-text">Our Menu</p></a></li> 
                     <li><a href="#sectionPortfolio"><p class="flow-text">Our Catering</p></a></li> 
-                	<li><a href="#sectionContact"><p class="flow-text">Contact Us</p></a></li> 
-                    <li><a href="#sectionMap"><p class="flow-text">Find Us</p></a></li> 
+                	<li><a href="#sectionContact"><p class="flow-text">Find Us</p></a></li> 
+                    <li><a href="#sectionMap"><p class="flow-text">Delivery</p></a></li> 
 				</ul>
 				</div>
             </nav>
