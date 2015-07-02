@@ -48,17 +48,6 @@
             </a>
         </div>-->
        </div>
-        <div class="row">
-			<div class="col s12 center-align">
-			  <div class="divider"></div>
-				<h5>Address: 7604 3rd Ave, Brooklyn, NY 11209</h5>
-				<h5>Phone:718-836-7777</h5>
-				<h5>Hours: 11:00 am – 10:30 pm Daily</h5>
-				<a href="http://eat24hrs.com/restaurants/order2/menu.php?id=30311"><h4 class="center">Order Online</h4></a>
-				<h5>$25 minimum for delivery orders</h5>
-				<h5>We deliver across Bay Ridge, from the water to 14th Avenue, up to 9th St<h5>
-			</div>
-		</div>
     </div>
     <!--end container-->   
     

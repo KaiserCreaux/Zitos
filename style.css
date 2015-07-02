@@ -4,8 +4,19 @@ Author: Todd Crow
 Author URI: http://toddacrow.com/
 */
 
+.mapPicture{
+	width: 600px;
+	max-width: 100%;
+	height: auto;
+}
+
 .logo {
 height:64px;
+width:auto;
+}
+
+.logoSmall {
+height:56px;
 width:auto;
 }
 
