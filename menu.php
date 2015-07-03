@@ -118,12 +118,12 @@
 		</li>
 
 		<li>
-			<div class="collapsible-header active black white-text"><h4>Beer Battered Wings</h4></div>
+			<div class="collapsible-header active black white-text"><h4>Wings</h4></div>
 			<div class="collapsible-body">
-			<p class="flow-text"><em>6 wings $8 &nbsp;|&nbsp; 12 wings $15&nbsp;|&nbsp; 24 wings $28</em>
-			Choice of Sauce:
+			<p class="flow-text">			Beer Battered Wings<br> in Choice of Sauce:<br>
 			Buffalo<br>BBQ<br>
-			Garlic Parm<br>Ranch<br></p>
+			Garlic Parm<br>Ranch<br>
+			<em>6 wings $8<br>12 wings $15<br>24 wings $28</em></p>
 			</div>
 		</li>
 
@@ -131,9 +131,9 @@
 			<div class="collapsible-header active black white-text"><h4>Sicilian Panelle</h4></div>
 			<div class="collapsible-body">
 			<p class="flow-text"><em>Chickpea Fritters Served On Semolina Bread</em><br>
-			<h5>Modern..$10.5</h5>
+			<h5>Modern&nbsp;&nbsp;$10.5</h5>
 			Mixed Greens, Balsamic, Roasted Peppers, Lemon & Sea Salt
-			<h5>Special..$10</h5>
+			<h5>Special&nbsp;&nbsp;$10</h5>
 			Topped With Ricotta & Parmesan</p>
 			</div>
 		</li>
@@ -163,8 +163,8 @@
 		<li>
 			<div class="collapsible-header active black white-text"><h4>Drinks</h4></div>
 			<div class="collapsible-body">
-			<p><em>$2.5:&nbsp;</em>Coca-cola, Diet Coke, Aranciata, San Pellegrino, Iced Tea <br>
-			<em>$3:&nbsp;</em>Boylan’s Sodas, Manhattan Special, Martinelli Apple Juice </p>
+			<p><em>$2.5&nbsp;</em>Coca-cola, Diet Coke, Aranciata, San Pellegrino, Iced Tea <br>
+			<em>$3&nbsp;</em>Boylan’s Sodas, Manhattan Special, Martinelli Apple Juice </p>
 			</div>
 		</li>
 	</ul>	
@@ -259,9 +259,9 @@
 			<div class="card-panel menuItem pastaMenu">
 				<h4 class="center-align">Pasta</h4>
 				<ul>
-					<li>•Baked Ziti&nbsp;&nbsp;$10</li>
-					<li>•Ravioli&nbsp;&nbsp;$10</li>
-					<li>•Spaghetti & Meatballs&nbsp;&nbsp;$12</li>
+					<li>Baked Ziti&nbsp;&nbsp;$10</li>
+					<li>Ravioli&nbsp;&nbsp;$10</li>
+					<li>Spaghetti & Meatballs&nbsp;&nbsp;$12</li>
 				</ul>
 				<em>Add Chicken Cutlet • Sausage • Meatballs....$3</em>
 			</div>
@@ -281,7 +281,7 @@
 			<h4 class="center-align">Beer Battered Wings</h4>
 			<p class="flow-text center-align">Buffalo&nbsp;|&nbsp;BBQ<br>
 			Garlic Parm&nbsp;|&nbsp;Ranch<br>
-			<em>6 wings $8 &nbsp;|&nbsp; 12 wings $15&nbsp;|&nbsp; 24 wings $28</em></p>
+			<em>6 wings $8<br>12 wings $15<br>24 wings $28</em></p>
 			</div>
 
 			<a href="https://twitter.com/zitossandwichsh" target="blank"><img class="cardDecoration" src="wp-content/themes/Zitos/assets/twitter.jpg"></a>
@@ -289,9 +289,9 @@
 			<div class="card-panel menuItem panelleMenu black white-text">
 			<h4>Sicilian Panelle</h4>
 			<p class="flow-text"><em>Chickpea Fritters Served On Semolina Bread</em><br>
-			<h5>Modern..$10.5</h5>
+			<h5>Modern&nbsp;&nbsp;$10.5</h5>
 			Mixed Greens, Balsamic, Roasted Peppers, Lemon & Sea Salt
-			<h5>Special..$10</h5>
+			<h5>Special&nbsp;&nbsp;$10</h5>
 			Topped With Ricotta & Parmesan</p>
 			</div>
 
@@ -315,8 +315,8 @@
 
 		<div class="card-panel menuItem drinksMenu black white-text">
 		<h5>Drinks</h5>
-		<p class="flow-text"><h4>$2.5:</h4><br>Coca-cola, Diet Coke, Aranciata, San Pellegrino, Iced Tea <br>
-		<h4>$3:</h4><br>Boylan’s Sodas, Manhattan Special, Martinelli Apple Juice </p>
+		<p class="flow-text"><h4>$2.5</h4><br>Coca-cola, Diet Coke, Aranciata, San Pellegrino, Iced Tea <br>
+		<h4>$3</h4><br>Boylan’s Sodas, Manhattan Special, Martinelli Apple Juice </p>
 		</div>
 	</div>
 </div>
