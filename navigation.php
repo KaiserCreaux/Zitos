@@ -2,7 +2,7 @@
 <header id="sectionNavigation">
 	<div class="container clearfix">
     <div class="row hide-on-med-and-down"> <!-- Desktop bio information -->
-		<div class="col s12"><h5 class="center-align">(718) 836-7777 &nbsp;|&nbsp;
+		<div class="col s12"><h5 class="center-align"><a href="tel:1-718-836-7777" class="black-text">(718) 836-7777</a> &nbsp;|&nbsp;
 		<a href="http://eat24hrs.com/restaurants/order2/menu.php?id=30311"> Order Online </a>&nbsp;|&nbsp;
 		 12:00 pm – 10:00 pm &nbsp;|&nbsp; 7604 3rd Ave, Brooklyn</h5></div>
 	</div>
@@ -34,7 +34,7 @@
     
 	</div>
 	<div class="row hide-on-large-only"> <!-- Mobile and Tablet bio information -->
-		<div class="col s12"><h5 class="center-align">(718) 836-7777<br/>
+		<div class="col s12"><h5 class="center-align"><a href="tel:1-718-836-7777" class="black-text">(718) 836-7777</a><br/>
 		<a href="http://eat24hrs.com/restaurants/order2/menu.php?id=30311">Order Online</a>
 		<br/> 12:00 pm – 10:00 pm<br/> 7604 3rd Ave, Brooklyn</h5></div>
 	

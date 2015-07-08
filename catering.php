@@ -2,7 +2,7 @@
 <section id="sectionCatering">
 	<div class="divider"></div>
 	<h3 class="center-align">Catering</h3>
-	
+	<h5 class="center-align"><a href="wp-content/themes/Zitos/assets/Zitos_2015_Catering.pdf" target="blank">Download Catering Menu</a></h5>
 	<div class="row hide-on-med-and-up">
 	<div class="col s12 center-align">
 	<ul class="collapsible" data-collapsible="expandable">
