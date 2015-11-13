@@ -3,6 +3,7 @@
 	<div class="divider"></div>
 	<h3 class="center-align">Catering</h3>
 	<h5 class="center-align"><a href="wp-content/themes/Zitos/assets/Zitos_2015_Catering.pdf" target="blank">Download Catering Menu</a></h5>
+	<h5 class="center-align"><a target="blank" href="https://www.ezcater.com/store/caterer/25810579?c=zitos-sandwich-shoppe-bay-ridge-rd-ave">Order Catering Online</a></h5>
 	<div class="row hide-on-med-and-up">
 	<div class="col s12 center-align">
 	<ul class="collapsible" data-collapsible="expandable">
@@ -12,9 +13,9 @@
 				3 - 6 feet&nbsp;|&nbsp;Serves 4-6 people per foot&nbsp;|&nbsp;$25 per foot
 				<ul>
 				<li><h5>Trunzo</h5>
-				Prosciutto, Rasted Peppers, & Fresh Mozzarella topped with Balsamic Vinegar</li>
+				Prosciutto, Roasted Peppers, & Fresh Mozzarella topped with Balsamic Vinegar</li>
 				<li><h5>Meatless</h5>
-				Grilled Portobello, Roasted Red Peppers & Broccoli Rabe topped with House-made Artichoke Spread</li>
+				Grilled Portobello, Roasted Red Peppers & Broccoli Rabe topped with Pesto</li>
 				<li><h5>C.B.L.T.</h5>
 				Chicken Cutlets topped with Smoked Bacon, Lettuce, Tomato & Hellman's Mayo</li>
 				<li><h5>Chiken Parm</h5>
@@ -90,7 +91,7 @@
 				<li><h5>Trunzo</h5>
 				Prosciutto, Rasted Peppers, & Fresh Mozzarella topped with Balsamic Vinegar</li>
 				<li><h5>Meatless</h5>
-				Grilled Portobello, Roasted Red Peppers & Broccoli Rabe topped with House-made Artichoke Spread</li>
+				Grilled Portobello, Roasted Red Peppers & Broccoli Rabe topped with Pesto</li>
 				<li><h5>C.B.L.T.</h5>
 				Chicken Cutlets topped with Smoked Bacon, Lettuce, Tomato & Hellman's Mayo</li>
 				<li><h5>Chiken Parm</h5>

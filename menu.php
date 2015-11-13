@@ -11,7 +11,6 @@
     <!--end anchors-->
 
 <div class="container menuDiv">
-<h4 class="center-align">Featuring Over 40 Craft and Domestic Beers</h4>
 <h5 class="center"><em>Gluten Free Bread Available</em></h5>
 <a href="http://eat24hrs.com/restaurants/order2/menu.php?id=30311"><h4 class="center">Order Online Now</h4></a>
 
@@ -25,10 +24,9 @@
 			<em>Served On Brick Oven Ciabatta</em><br>
 			<h5>Chicken Parm</h5> Chicken Cutlet, Tomato Sauce, Mozzarella & Parmigiano<br>
 			<h5>Meatball Parm</h5> All Beef Meatballs, Tomato Sauce, Mozzarella & Parmigiano<br>
-			<h5>Meatless</h5> Grilled Portobello, Roasted Peppers, Rabe & House-made Artichoke Spread<br>
+			<h5>Meatless</h5> Grilled Portobello, Roasted Peppers, Rabe & Pesto<br>
 			<h5>Triple Grilled Cheese</h5> American, Provolone, Mozzarella, Tomato & Smoked Bacon<br>
 			<h5>Trunzo</h5> Prosciutto, Mozzarella, Roasted Peppers & Balsamic Vinegar<br>
-			<h5>Eggplant Parm</h5> Breaded Eggplant, Tomato Sauce, Mozzarella & Parmigiano<br>
 			<h5>C.b.l.t.</h5> Chicken Cutlet, Bacon, Mixed Greens, Tomato & Mayo<br>
 			<h5>18th Ave. Feast</h5> Sausage With Sautéed Onions & Peppers<br>
 			<h5>Sausage & Rabe</h5> With Fresh Ricotta</p>
@@ -57,17 +55,15 @@
 		<li>
 			<div class="collapsible-header active black white-text"><h4>Grilled Chicken</h4></div>
 			<div class="collapsible-body">
-			<p class="flow-text"><span class="center-align">Panini $10<br>Whole Wheat Wrap $8</span>
+			<p class="flow-text"><span class="center-align">Panini $10<br></span>
 			<h5>Pesto</h5>
 			With Mixed Greens, Roasted Red Peppers, & Mozzarella<br>
 			<h5>Balsamic</h5>
-			With Mixed Greens, Artichoke Spread, & Mozzarella<br>
+			With Mixed Greens & Mozzarella<br>
 			<h5>Lemon</h5>
 			With Sauteed Mixed Peppers, Pesto & Mozzarella<br>
 			<h5>Broccoli Rabe</h5>
 			With Garlic Oil & Mozzarella<br>
-			<h5>Bruschetta</h5>
-			Melted Mozzarella, Balsamic With Mixed Greens<br>
 			<h5>Caesar Avocado</h5>
 			Bacon, Avocado & Pecorino<br>
 			<h5>A.b.c.</h5>
@@ -122,19 +118,8 @@
 			<div class="collapsible-body">
 			<p class="flow-text">			Beer Battered Wings<br> in Choice of Sauce:<br>
 			Buffalo<br>BBQ<br>
-			Garlic Parm<br>Ranch<br>
+			Ranch<br>
 			<em>6 wings $8<br>12 wings $15<br>24 wings $28</em></p>
-			</div>
-		</li>
-
-		<li>
-			<div class="collapsible-header active black white-text"><h4>Sicilian Panelle</h4></div>
-			<div class="collapsible-body">
-			<p class="flow-text"><em>Chickpea Fritters Served On Semolina Bread</em><br>
-			<h5>Modern&nbsp;&nbsp;$10.5</h5>
-			Mixed Greens, Balsamic, Roasted Peppers, Lemon & Sea Salt
-			<h5>Special&nbsp;&nbsp;$10</h5>
-			Topped With Ricotta & Parmesan</p>
 			</div>
 		</li>
 
@@ -145,18 +130,6 @@
 			3 For $7.50
 			<h5>Meatball Sliders</h5>
 			3 For $9</p>
-			</div>
-		</li>
-
-		<li>
-			<div class="collapsible-header active black white-text"><h4>Egg Wraps</h4></div>
-			<div class="collapsible-body">
-			<p class="flow-text"> <span class="center-align">On Whole Wheat Wraps</span>
-			<em>$7</em>
-			<h5>Bacon, Lettuce & Tomato</h5>
-			<h5>Sausage & American</h5>
-			<h5>Bacon & Provolone</h5>
-			<h5>Prosciutto & Mozzarella</h5></p>
 			</div>
 		</li>
 
@@ -183,7 +156,6 @@
 			<span class="bold">Meatless</span> Grilled Portobello, Roasted Peppers, Rabe & House-made Artichoke Spread<br>
 			<span class="bold">Triple Grilled Cheese</span> American, Provolone, Mozzarella, Tomato & Smoked Bacon<br>
 			<span class="bold">Trunzo</span> Prosciutto, Mozzarella, Roasted Peppers & Balsamic Vinegar<br>
-			<span class="bold">Eggplant Parm</span> Breaded Eggplant, Tomato Sauce, Mozzarella & Parmigiano<br>
 			<span class="bold">C.b.l.t.</span> Chicken Cutlet, Bacon, Mixed Greens, Tomato & Mayo<br>
 			<span class="bold">18th Ave. Feast</span> Sausage With Sautéed Onions & Peppers<br>
 			<span class="bold">Sausage & Rabe</span> With Fresh Ricotta<br>
@@ -214,7 +186,7 @@
 	<div class="col s12 m6 l4 menuPanel2">
 		<div class="card-panel menuItem chickenMenu">
 			<h4 class="center-align">Grilled Chicken</h4>
-			<h5 class="bold center-align">Panini $10<br><br> Whole Wheat Wrap $8</h5>
+			<h5 class="bold center-align">Panini $10<br></h5>
 			<p>
 			<span class="bold">Pesto</span>
 			With Mixed Greens, Roasted Red Peppers, & Mozzarella<br>
@@ -302,21 +274,10 @@
 			3 For $9</h4>
 			</div>
 
-			<div class="card-panel menuItem eggMenu black white-text">
-				<h4 class="center-align">Whole Wheat<br> Egg Wraps</h4>
-				<h5 class="bold center-align">$7</h5>
-				<ul class="center-align">
-					<li>bacon, Lettuce & Tomato</li>
-					<li>sausage & American</li>
-					<li>bacon & Provolone</li>
-					<li>prosciutto & Mozzarella</li>
-				</ul>
-			</div>
 
 		<div class="card-panel menuItem drinksMenu black white-text">
 		<h5>Drinks</h5>
-		<p class="flow-text"><h4>$2.5</h4><br>Coca-cola, Diet Coke, Aranciata, San Pellegrino, Iced Tea <br>
-		<h4>$3</h4><br>Boylan’s Sodas, Manhattan Special, Martinelli Apple Juice </p>
+		<p class="flow-text"><h4>$2.5 EACH</h4><br>Mexican Coke, Diet Coke, Fanta, San Pellegrino Sparkling Water <br></p>
 		</div>
 	</div>
 </div>
